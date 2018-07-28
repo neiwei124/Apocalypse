@@ -1,2 +1,2 @@
 # Apocalypse
-# A cool python animation that I made in grade 10
+A cool python animation that I made in grade 10
